@@ -1,0 +1,4 @@
+2025/08/16 16:42:57 [emerg] 1#1: unknown directive "event" in /etc/nginx/nginx.conf:1
+2025/08/16 16:55:13 [emerg] 1#1: unknown directive "event" in /etc/nginx/nginx.conf:1
+2025/08/16 16:58:39 [emerg] 1#1: unknown directive "event" in /etc/nginx/nginx.conf:1
+2025/08/16 17:05:13 [emerg] 1#1: host not found in upstream "web1:5000" in /etc/nginx/nginx.conf:8
